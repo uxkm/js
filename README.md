@@ -2,7 +2,7 @@
 
 ### 1. [JavaScript 소개 및 환경 설정](01-jsStart/01-js_intro.md)  
 - #### 1.1. [JavaScript 소개 및 환경 설정](01-jsStart/01-js_intro.md)
-- #### 1.1. <a href="01-jsStart/01-js_intro.md" target="_blank">JavaScript 소개 및 환경 설정</a>
+- #### 1.1. <a href="01-jsStart/01-js_intro.html" target="_blank">JavaScript 소개 및 환경 설정</a>
 
 ### 2. [0000000000](00000000000000)  
 - #### 2.1. [00000000](0000000000)
