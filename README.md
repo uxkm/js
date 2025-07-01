@@ -2,7 +2,7 @@
 
 ### 1. [JavaScript 소개 및 환경 설정](01-jsStart/01-js_intro.md)  
 - #### 1.1. <a href="01-jsStart/01-js_intro.html" target="_blank">JavaScript 소개 및 환경 설정</a>
-- #### 1.2. <a href="01-jsStart/02-variables_types.html" target="_blank">변수와 데이터 타입 (var, let, const)</a>
+- #### 1.2. <a href="01-jsStart/02-variables_types.html" target="_blank">변수와 데이터 타입</a>
 - #### 1.3. <a href="01-jsStart/03-operators_expr.html" target="_blank">연산자와 표현식</a>
 - #### 1.4. <a href="01-jsStart/04-conditionals.html" target="_blank">조건문</a>
 - #### 1.5. <a href="01-jsStart/05-loops.html" target="_blank">반복문</a>
