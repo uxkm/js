@@ -13,15 +13,15 @@
 - #### 1.10. <a href="01-jsStart/10-builtins.html" target="_blank">내장 객체</a>
 
 
-### 2. <a href="02-domBrowser/0000000.html" target="_blank">JavaScript DOM & 브라우저 조작</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">DOM 구조 이해</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">DOM 요소 선택</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">DOM 조작</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">이벤트 핸들링</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">폼과 입력값 다루기</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">브라우저 이벤트 처리</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">타이머 함수</a>
-- #### 2.1. <a href="02-domBrowser/0000000.html" target="_blank">에러 처리</a>
+### 2. <a href="02-domBrowser/01-dom_structure.html" target="_blank">JavaScript DOM & 브라우저 조작</a>
+- #### 2.1. <a href="02-domBrowser/01-dom_structure.html" target="_blank">DOM 구조 이해</a>
+- #### 2.1. <a href="02-domBrowser/02-dom_select.html" target="_blank">DOM 요소 선택</a>
+- #### 2.1. <a href="02-domBrowser/03-dom_update.html" target="_blank">DOM 조작</a>
+- #### 2.1. <a href="02-domBrowser/04-event_handling.html" target="_blank">이벤트 핸들링</a>
+- #### 2.1. <a href="02-domBrowser/05-form_input.html" target="_blank">폼과 입력값 다루기</a>
+- #### 2.1. <a href="02-domBrowser/06-browser_events.html" target="_blank">브라우저 이벤트 처리</a>
+- #### 2.1. <a href="02-domBrowser/07-timers.html" target="_blank">타이머 함수</a>
+- #### 2.1. <a href="02-domBrowser/08-error_handling.html" target="_blank">에러 처리</a>
 
 ### 3. <a href="03-jsAdvanced/0000000.html" target="_blank">JavaScript 활용 및 고급 문법</a>
 - #### 3.1. <a href="03-jsAdvanced/0000000.html" target="_blank">ES6+ 문법 소개</a>
