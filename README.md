@@ -46,7 +46,7 @@
 ### 5. <a href="05-finalPractice/0000000.html" target="_blank">실전 프로젝트 및 마무리</a>
 - #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">실전 UI 구성 프로젝트</a>
 - #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">Vanilla JS vs jQuery 비교</a>
-- #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">모범 코드 작성 습관</a>
+- #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">클린 코드 및 모범 사례</a>
 - #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">디버깅 & 브라우저 호환 팁</a>
 - #### 5.1. <a href="05-finalPractice/0000000.html" target="_blank">학습 마무리 및 실무 적용 전략</a>
 
